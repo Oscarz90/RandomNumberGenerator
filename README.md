@@ -1,9 +1,10 @@
 # RandomNumberGenerator
 
-** A simple random number generator **
+**A simple random number generator**  
 _Implementing Linear Congruential Algorithms using coin flip!!!_
 
 ![randomexample](docs/images/random-example.png)
+
 
 ### Parameters
 
